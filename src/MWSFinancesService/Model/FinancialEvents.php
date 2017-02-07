@@ -74,7 +74,7 @@ require_once (dirname(__FILE__) . '/../Model.php');
      *
      * @return List<ShipmentEvent> ShipmentEventList.
      */
-    public function getShipmentEventList()
+    public function     getShipmentEventList()
     {
         if ($this->_fields['ShipmentEventList']['FieldValue'] == null)
         {
