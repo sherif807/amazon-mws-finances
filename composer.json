@@ -12,7 +12,8 @@
     ],
     "require": {
         "php": ">=5.2.8",
-        "ext-curl": "*"
+        "ext-curl": "*",
+		"sherif807/amazon-mws-finances":"dev-master"
     },
     "autoload": {
         "classmap": ["src/"]
