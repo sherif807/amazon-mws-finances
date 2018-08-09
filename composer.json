@@ -1,13 +1,13 @@
 {
-    "name": "aivanouski/amazon-mws-finances",
+    "name": "sherif807/amazon-mws-finances",
     "type": "library",
     "description": "Amazon Marketplace Web Service Finances PHP Client Library",
     "keywords": ["amazon", "mws", "finances", "client", "api", "library"],
     "licence": "Apache-2.0",
     "authors": [
         {
-          "name": "Andrei Ivanouski",
-          "email": "aivanouski@gmail.com"
+          "name": "Sherif Badawy",
+          "email": ""
         }
     ],
     "require": {

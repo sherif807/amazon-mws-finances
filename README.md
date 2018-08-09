@@ -7,7 +7,7 @@ Installation
 
 Install [Composer](http://getcomposer.org/) and add amazon-mws-finances to your `composer.json`:
 
-    composer require aivanouski/amazon-mws-finances:dev-master
+    composer require sherif807/amazon-mws-finances:dev-master
 
 Version
 -------
@@ -18,7 +18,7 @@ Installation
 ----------
 Add the reference into your composer.json : 
 ```
-    "aivanouski/amazon-mws-finances": "dev-master"
+    "sherif807/amazon-mws-finances": "dev-master"
 	composer update
 ```
 
